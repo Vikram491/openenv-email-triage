@@ -1,0 +1,20 @@
+[
+  {
+    "email_text": "My order hasn’t arrived yet. It’s been 10 days!",
+    "classification": "complaint",
+    "priority": "high",
+    "response": "We apologize for the delay. We are checking your order."
+  },
+  {
+    "email_text": "Can you tell me your refund policy?",
+    "classification": "query",
+    "priority": "medium",
+    "response": "Our refund policy allows returns within 30 days."
+  },
+  {
+    "email_text": "Win a free iPhone now!!!",
+    "classification": "spam",
+    "priority": "low",
+    "response": "This email is marked as spam."
+  }
+]

@@ -1,0 +1,4 @@
+name: email-triage-env
+version: 1.0
+description: Email classification and response environment
+entrypoint: app:app
